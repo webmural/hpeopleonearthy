@@ -4,6 +4,7 @@
 /* play */
 
 :root {
+  --tape-loud: peachpuff;
   --tape-luvu: powderblue;
   --tape-blaq: darkviolet;
 }
@@ -27,22 +28,22 @@
   text-shadow:
     -1rem -1rem 1pc orange,
     -2rem -2rem 2pc orange,
-    3rem -3rem 3pc cyan,
-    5rem -5rem 5pc cyam;
+    3rem -3rem 3pc springgreen,
+    5rem -5rem 5pc springgreen;
 }
 
 .feet {
   text-shadow:
-    0rem 1rem 1pc plum,
-    0rem 2rem 2pc plum,
-    0rem 3rem 3pc pink,
-    0rem 5rem 5pc pink;
+    0rem 1rem 1pc thistle,
+    0rem 2rem 2pc thistle,
+    0rem 3rem 3pc #bae,
+    0rem 5rem 5pc #bae;
 }
 
 .wind {
   text-shadow:
     0rem -3rem 1pc aqua,
     0rem -2rem 2pc aqua,
-    0rem -2rem 2pc orchid,
-    0rem -3rem 3pc orchid;
+    0rem -2rem 2pc mediumorchid,
+    0rem -3rem 3pc mediumorchid;
 }
